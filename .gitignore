@@ -1,0 +1,30 @@
+# PlatformIO build artifacts & libraries
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Editor / IDE configurations
+.vscode/
+*.code-workspace
+.idea/
+
+# C/C++ compilation artifacts & temporary files
+*.o
+*.a
+*.so
+*.obj
+*.elf
+*.bin
+*.hex
+*.ipch
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Sensitive / local secrets (if created in the future)
+secrets.h
+include/secrets.h
+*.local
