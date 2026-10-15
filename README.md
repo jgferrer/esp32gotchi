@@ -23,6 +23,16 @@
 
 ---
 
+## 📸 Capturas de Pantalla
+
+<div align="center">
+  <img src="docs/screenshots/screenshot_main.png" width="220" alt="Mascota Virtual en Pantalla Principal" />
+  <img src="docs/screenshots/screenshot_care.png" width="220" alt="Alimentación y Cuidados" />
+  <img src="docs/screenshots/screenshot_settings.png" width="220" alt="Ajustes WiFi y Teclado Táctil" />
+</div>
+
+---
+
 ## ✨ Características Principales
 
 * **🎮 3 Mascotas Seleccionables:**
